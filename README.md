@@ -1,18 +1,18 @@
-# 🎨 BrandBuilder AI
+# BrandBuilder AI
 
 > AI-powered brand asset generator that visualizes your product across Billboard, Newspaper, and Social Media formats — powered by Google Gemini.
 
 ---
 
-## 📌 Overview
+## Overview
 
 **BrandBuilder AI** is a web application that takes a product description and automatically generates consistent, high-fidelity marketing visuals for three mediums:
 
 | Medium | Aspect Ratio | Use Case |
 |--------|-------------|----------|
-| 🏙️ Billboard | 16:9 | Outdoor advertising, wide-format displays |
-| 📰 Newspaper | 4:3 | Print media, editorial placements |
-| 📱 Social Media | 1:1 | Instagram, Facebook, digital campaigns |
+| Billboard | 16:9 | Outdoor advertising, wide-format displays |
+| Newspaper | 4:3 | Print media, editorial placements |
+| Social Media | 1:1 | Instagram, Facebook, digital campaigns |
 
 The app uses a **multi-step AI pipeline**:
 1. Generates a detailed **Visual Identity / Style Guide** for your product
@@ -23,18 +23,18 @@ All three outputs maintain a **consistent visual identity** — same product, sa
 
 ---
 
-## ✨ Features
+## Features
 
-- 🤖 **Multi-step Gemini AI pipeline** — style guide → prompt engineering → image generation
-- 🖼️ **3 marketing formats** generated simultaneously — Billboard, Newspaper, Social
-- 🎨 **Consistent brand identity** — all visuals share the same product design language
-- ⬇️ **Download high-res assets** directly from the UI
-- ⚡ **Real-time status updates** while assets are being generated
-- 🌙 **Sleek dark UI** built with Tailwind CSS and Framer Motion animations
+-  **Multi-step Gemini AI pipeline** — style guide → prompt engineering → image generation
+-  **3 marketing formats** generated simultaneously — Billboard, Newspaper, Social
+-  **Consistent brand identity** — all visuals share the same product design language
+-  **Download high-res assets** directly from the UI
+-  **Real-time status updates** while assets are being generated
+-  **Sleek dark UI** built with Tailwind CSS and Framer Motion animations
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -48,7 +48,7 @@ All three outputs maintain a **consistent visual identity** — same product, sa
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v18 or higher)
@@ -85,7 +85,7 @@ All three outputs maintain a **consistent visual identity** — same product, sa
 
 ---
 
-## 🎮 How to Use
+## How to Use
 
 1. Enter a **detailed product description** in the sidebar (e.g. *"A premium glass water bottle with a bamboo cap, minimalist design, targeted at eco-conscious consumers"*)
 2. Click **"Generate Assets"**
@@ -97,7 +97,7 @@ All three outputs maintain a **consistent visual identity** — same product, sa
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 brand-builder-app/
@@ -115,24 +115,24 @@ brand-builder-app/
 
 ---
 
-## 🔐 Environment Variables
+## Environment Variables
 
 | Variable | Description | Required |
 |----------|-------------|----------|
 | `GEMINI_API_KEY` | Your Google Gemini API key | ✅ Yes |
 | `APP_URL` | Deployment URL (auto-injected in AI Studio) | ❌ Optional |
 
-> ⚠️ **Never commit your `.env.local` file or expose your API key publicly.**
+>  **Never commit your `.env.local` file or expose your API key publicly.**
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
 This app was originally built and deployed on [Google AI Studio](https://ai.studio/apps/3be3830c-2891-470a-b371-c20a20f1e983).
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **Apache 2.0 License** — see the [LICENSE](LICENSE) file for details.
 
@@ -145,7 +145,7 @@ This project is licensed under the **Apache 2.0 License** — see the [LICENSE](
 
 ---
 
-## 👤 Author
+## Author
 
 **Muhammad Taha Rashid**
 - GitHub: [@MTahaR-dev](https://github.com/MTahaR-dev)
