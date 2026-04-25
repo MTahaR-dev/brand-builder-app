@@ -138,6 +138,13 @@ This project is licensed under the **Apache 2.0 License** — see the [LICENSE](
 
 ---
 
+## ScreenShots
+
+<img width="1437" height="695" alt="Image1" src="https://github.com/user-attachments/assets/962dbd5b-2037-4e1d-a306-a640559ca4c3" />
+<img width="1445" height="712" alt="Image2" src="https://github.com/user-attachments/assets/741b5c19-f328-486c-a7cf-072fe5f6c2a8" />
+
+---
+
 ## 👤 Author
 
 **Muhammad Taha Rashid**
